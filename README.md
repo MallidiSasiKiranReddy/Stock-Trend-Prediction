@@ -1,4 +1,4 @@
-# Stock-Trend-Prediction App(live Demo: https://stockxense.streamlit.app/ ) 
+# Stock-Trend-Prediction App(Live Demo: https://stockxense.streamlit.app/ ) 
 A Streamlit-based application for predicting stock prices using an LSTM model.
 
 # Features
