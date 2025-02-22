@@ -10,11 +10,13 @@ A Streamlit-based application for predicting stock prices using an LSTM model.
 # Screenshots
 Home Page
 
-![image](https://github.com/user-attachments/assets/2450cc53-8778-4ac2-8fcc-a54ecf21bcb1)
+![image](https://github.com/user-attachments/assets/2d468ba9-4725-4d76-a7e7-05bd775974f5)
+
 
 Stock Prediction Graph
 
-![image](https://github.com/user-attachments/assets/8acb27f7-c665-48fa-9388-ef1fcf4402c4)
+![image](https://github.com/user-attachments/assets/b272e1fd-dc5c-4fb9-9122-08ae3700c7e0)
+
 
 
 # Installation & Setup
